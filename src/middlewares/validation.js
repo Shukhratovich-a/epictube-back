@@ -9,8 +9,6 @@ export default (req, res, next) => {
     }
 
     if (req.url == "/register") {
-      console.log(req);
-
       let { error } = registerScheme.validate(req.body);
       if (error) throw error;
     }
