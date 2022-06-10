@@ -1,0 +1,37 @@
+[
+  {
+    "userId": 1,
+    "username": "andrey",
+    "email": "andrey@gmail.com",
+    "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+    "avatar": "andrey.jpeg"
+  },
+  {
+    "userId": 2,
+    "username": "joshqin",
+    "email": "joshqin@gmail.com",
+    "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+    "avatar": "joshqin.jpg"
+  },
+  {
+    "userId": 3,
+    "username": "shrek",
+    "email": "shrek@gmail.com",
+    "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+    "avatar": "shrek.jpeg"
+  },
+  {
+    "username": "rustam",
+    "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+    "email": "rustam@gmail.com",
+    "userId": 4,
+    "avatar": null
+  },
+  {
+    "username": "Bobur",
+    "email": "bobur@gmail.com",
+    "password": "c775e7b757ede630cd0aa1113bd102661ab38829ca52a6422ab782862f268646",
+    "userId": 5,
+    "avatar": "1654856276358scientific-activity-min.jpg"
+  }
+]
